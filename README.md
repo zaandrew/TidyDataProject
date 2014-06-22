@@ -46,7 +46,7 @@ Steps to obtain tidy dataset:
 This repo includes the following files:
 =========================================
 
-- 'README.md
+- 'README.md' : Provide information about this projects, data description, work performed for this project and explain the steps to achieve desired outcome (i.e., obtain tidy dataset)
 
 - run_analysis.R ': R script called run_analysis.R that the procedure of obtaining tidy dataset. 
 
